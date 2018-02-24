@@ -5,3 +5,4 @@ Various cloud resources available for free
 * AWS https://aws.amazon.com/free
 * IBM
   * OpenWhisk https://console.bluemix.net/openwhisk/learn/pricing
+* Google https://cloud.google.com/compute/pricing

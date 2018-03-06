@@ -6,6 +6,6 @@ Various cloud resources available for free
 * IBM
   * OpenWhisk https://console.bluemix.net/openwhisk/learn/pricing
 * Google 
- * https://cloud.google.com/compute/pricing
- * https://console.cloud.google.com/freetrial - free trial for one year
+  * https://cloud.google.com/compute/pricing
+  * https://console.cloud.google.com/freetrial - free trial for one year
 * Webtask https://webtask.io/ - endpoint with 1rps limit.

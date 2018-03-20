@@ -8,4 +8,6 @@ Various cloud resources available for free
 * Google 
   * https://cloud.google.com/compute/pricing
   * https://console.cloud.google.com/freetrial - free trial for one year
+* Alibaba Cloud https://www.alibabacloud.com/campaign/free-trial - 60 days of trial, $300 in credits
+* Oracla Cloud https://cloud.oracle.com/tryit - 30 days of free tier, $300 in credits
 * Webtask https://webtask.io/ - endpoint with 1rps limit.
